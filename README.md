@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 2nd, 2018
 
 ### Student Name:  
-(First and Last Name)
+Matthew Weas
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Create a currency calculator using variables, the getElementById( ) method, and if/else statements
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://matthewweas.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
+1. The onclick method is used to associate an event with each button.  When the user clicks either button, the methods stated will be executed to handle that event.
 2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+3. The getElementById() method is used to find the element on the HTML page with the specified id and overwrite the existing values with the empty string ("") or a set value.
 
